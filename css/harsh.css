@@ -1,0 +1,18 @@
+.border{
+    border-style: solid;border-color:violetpink; border-width: 3pt;
+}
+.bgpage{
+    background-color:rgb(247, 240, 114);
+}
+h1{
+    font-size:65pt;font-style:"Bungee Spice";color:rgb(237, 176, 62);text-decoration-color:rgb(72, 199, 206);
+}
+h2{
+    font-size:55pt;font-style:"italic";color:rgb(76, 39, 72);text-decoration-color:rgb(55, 32, 136);
+}
+h3{
+    font-size:45pt;font-style:"italic";color:rgb(203, 78, 32);text-decoration-color:rgb(177, 199, 213);
+}
+p{
+    font-size:40pt;font-style:"Times New Roman";color:blueviolet;text-decoration-color:aquamarine
+}
